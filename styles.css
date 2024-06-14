@@ -1,0 +1,41 @@
+.divider {
+    border: none;
+    height: 7px;
+    background-color: black;
+    margin-top: 7px;
+    margin-bottom: 5px;
+  }
+body
+{
+    background-color: #eceaea;
+    padding: 1rem;
+}
+h2{
+    font-size: 5rem;
+    color: #000000;
+    text-align: center;
+    
+    
+}
+.black-bar {
+    background-color: black;
+    height: 50px;
+    width: 100%;
+  }
+.edu{
+    width: 35rem;
+    height: auto;
+    border-radius: 25%;
+    padding: 2rem;
+}
+
+div{
+    text-align: center;
+
+}
+h1{
+    text-align: left;
+    color: #000000;
+    
+}
+
